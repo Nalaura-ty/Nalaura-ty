@@ -1,16 +1,37 @@
-## Hi there 👋
+# Oi, eu sou a Laura 👋
 
-<!--
-**Nalaura-ty/Nalaura-ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Desenvolvedora focada em **Mobile**  
+💻 Trabalho com **TypeScript, React Native e React**  
+🚀 Gosto de criar interfaces modernas e funcionais  
+📚 Sempre aprendendo e evoluindo no mundo do dev
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+
+- 📱 **React Native**
+- ⚛️ **React**
+- 🟦 **TypeScript**
+- 🟨 JavaScript
+- 🎨 HTML | CSS
+- 🔧 Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nalaura-ty&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalaura-ty&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ Sobre mim
+- 📱 Apaixonada por desenvolvimento mobile  
+- 🎯 Foco em código limpo e boas práticas  
+- 🤝 Aberta a aprender e colaborar em projetos
+
+---
+
+## 🌐 Vamos nos conectar?
+- 💼 LinkedIn: *https://www.linkedin.com/in/ana-laura-silva-pereira-a208a4227/*
+- 📧 Email: *analaura@quartoavista.com.br*
